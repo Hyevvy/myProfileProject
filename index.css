@@ -19,7 +19,7 @@
     margin-top:10px;
     margin-bottom:0px;
 }
-.profileLanguages{
+.profileLanguage{
     padding-top:10px;
     padding-left:50px;
     padding-right: 30px;
@@ -30,4 +30,13 @@
 .profileElements{
     text-align: center;
     margin-top:15px;
+}
+
+.profileActivities{
+    margin-top: 100px;
+    text-align: center;
+}
+.profileActivity{
+    padding-right:40px;
+    size:50px;
 }
