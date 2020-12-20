@@ -6,3 +6,9 @@
     font-size: 22px;
     padding-right:30px;
 }
+li{
+    margin-bottom: 15px;
+}
+a{
+    text-decoration: none;
+}
