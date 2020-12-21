@@ -27,3 +27,16 @@ function zoomOut(event) {
   event.target.style.height = "50px";
   event.target.style.transition = "all 0.5s";
 }
+
+function zoomInLanguage(event){
+  event.target.style.width = "120px";
+  event.target.style.height = "120px";
+  event.target.style.transition = "all 0.5s";
+}
+
+function zoomOutLanguage(event) {
+  //language아이콘에 올라갔던 마우스 커서가 다시 나올 때 
+  event.target.style.width = "100px";
+  event.target.style.height = "100px";
+  event.target.style.transition = "all 0.5s";
+}
